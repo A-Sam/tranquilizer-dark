@@ -1,0 +1,21 @@
+{
+    "name": "tranquilizer-dark",
+    "displayName": "Tranquilizer Dark",
+    "description": "Just a dark theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.32.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Tranquilizer Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Tranquilizer Dark-color-theme.json"
+            }
+        ]
+    }
+}
