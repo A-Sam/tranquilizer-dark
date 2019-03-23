@@ -2,7 +2,7 @@
     "name": "tranquilizer-dark",
     "displayName": "Tranquilizer Dark",
     "description": "Just a dark theme.",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "a-sam",
     "engines": {
         "vscode": "^1.32.0"
