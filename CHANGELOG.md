@@ -1,10 +1,11 @@
 # Changelog
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+- None
 
 ## [Unreleased]
+- None
 
-## [1.0.0] - 2017-06-20
+
+## [0.0.1] - 2019-03-23
 ### Added
 - Initial release [@A-Sam](https://github.com/A-Sam).
 
@@ -14,6 +15,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Removed
 - None
 
-## [0.0.1] - 2019-03-23
-[Unreleased]: https://github.com/olivierlacan/keep-a-changelog/compare/v1.0.0...HEAD
+## Summary
 [0.0.1]: https://github.com/olivierlacan/keep-a-changelog/releases/tag/v0.0.1
