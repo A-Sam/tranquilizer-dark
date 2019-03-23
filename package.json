@@ -3,9 +3,12 @@
     "displayName": "Tranquilizer Dark",
     "description": "Just a dark theme.",
     "version": "0.0.1",
+    "publisher": "a-sam",
     "engines": {
         "vscode": "^1.32.0"
     },
+    "repository":"https://github.com/A-Sam/tranquilizer-dark",
+    "icon": "icon.png",
     "categories": [
         "Themes"
     ],
@@ -17,5 +20,6 @@
                 "path": "./themes/Tranquilizer Dark-color-theme.json"
             }
         ]
-    }
+    },
+    "readme": "README.md"
 }
