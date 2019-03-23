@@ -5,6 +5,7 @@
 		// "editor.background": "#1f2329",
 		"editor.background": "#1d1d1d",
 		"editor.foreground": "#d4d4b5",
+		"button.background":"#b33535",
 		// "activityBar.border":"#3b3b3b",
 		"activityBar.background":"#1d1d1d",
 		"activityBar.dropBackground":"#b33535",
@@ -14,14 +15,14 @@
 
 		"statusBar.background": "#1d1d1d",
 		// "statusBar.border": "#3b3b3b",
-		"statusBar.debuggingBackground": "#812222",
+		"statusBar.debuggingBackground": "#b33535",
 		"statusBar.debuggingBorder": "#3b3b3b",
-		"statusBar.debuggingForeground": "#818181",
+		"statusBar.debuggingForeground": "#ecb12f",
 		"statusBar.foreground": "#818181",
 
-		// "statusBar.noFolderBackground": "#ecb12f",
-		// "statusBar.noFolderBorder": "#3b3b3b",
-		// "statusBar.noFolderForeground": "#ecb12f",
+		"statusBar.noFolderBackground": "#1d1d1d",
+		"statusBar.noFolderBorder": "#1d1d1d",
+		"statusBar.noFolderForeground": "#bbbbbb",
 
 		// "statusBarItem.activeBackground": "#ecb12f",
 		// "statusBarItem.hostBackground": "#ecb12f",
@@ -37,6 +38,7 @@
 		// "editor.findMatchBackground":"#d4d4d4",
 		// "editorIndentGuide.background": "#0654bb",
 		"activityBarBadge.background": "#b33535",
+		// "activityBar.": "#b33535",
 		"sideBarTitle.foreground": "#bbbbbb"
 	},
 	"tokenColors": [
