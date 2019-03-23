@@ -7,7 +7,7 @@
 
 ## [0.0.1] - 2019-03-23
 ### Added
-- Initial release [@A-Sam](https://github.com/A-Sam).
+- Initial release [A-Sam](https://github.com/A-Sam).
 
 ### Changed
 - None
