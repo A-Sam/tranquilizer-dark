@@ -14,7 +14,7 @@
 
 		"statusBar.background": "#1d1d1d",
 		// "statusBar.border": "#3b3b3b",
-		"statusBar.debuggingBackground": "#b33535",
+		"statusBar.debuggingBackground": "#812222",
 		"statusBar.debuggingBorder": "#3b3b3b",
 		"statusBar.debuggingForeground": "#818181",
 		"statusBar.foreground": "#818181",
